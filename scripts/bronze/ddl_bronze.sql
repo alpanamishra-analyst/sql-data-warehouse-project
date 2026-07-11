@@ -5,6 +5,7 @@ DDL Script: Create Bronze Tables
 Script Purpose:
 This TSQL script creates tables in the Bronze schema, dropping existing tables if they already exist.
 Run this script to re-define the DDL structure of the 'bronze' tables
+Object type: 'U' - user defined tables
 ========================================================================================================
 */
 
