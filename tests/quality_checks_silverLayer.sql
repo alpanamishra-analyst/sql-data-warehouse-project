@@ -20,7 +20,7 @@ Reference: Data With Barra (https://www.datawithbaraa.com/wiki/sql)
 */
 
 --===================================================================
-Silver.crm_cust_info' Table
+--'Silver.crm_cust_info' Table
 --================================================================
 --Check for Nulls or Duplicates in Primary Key
 --Expected Outcome: No Results
