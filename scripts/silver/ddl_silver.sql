@@ -6,6 +6,8 @@ Script Purpose:
     This script creates tables in the 'silver' schema, dropping existing tables 
     if they already exist.
 	Run this script to re-define the DDL structure of 'bronze' Tables
+
+Project Credit and Reference: Data With Barra (https://www.datawithbaraa.com/wiki/sql)
 ===============================================================================
 */
 --Adding TSQL Script before DDL to make sure table does not alerady exist and if it exist. drop and create a new one
