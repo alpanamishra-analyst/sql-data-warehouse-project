@@ -14,7 +14,7 @@ Parameters:
 Usage Example:
     EXEC Silver.load_silver;
 
-Reference: Data With Barra (https://www.datawithbaraa.com/wiki/sql)
+Project Credit and Reference: Data With Barra (https://www.datawithbaraa.com/wiki/sql)
 ===============================================================================
 */
 
